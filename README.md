@@ -11,7 +11,7 @@ A simple shopping cart frontend written. In this exercise, you will be implement
 ## Bonus Missions
 
 * Implement Validation ensure the fields are filled with correct type of information.
-* Calculate the Tax Rate based on Zip Code via a website called Avalera.
+* Calculate the Tax Rate based on Zip Code via a website called Avalara.
 
 ## Tips:
 
